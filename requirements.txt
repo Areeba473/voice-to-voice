@@ -1,0 +1,6 @@
+gradio
+faster-whisper
+groq
+gtts
+pydub
+ffmpeg-python
